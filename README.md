@@ -10,8 +10,4 @@ As we can't remember everything, users frequently forget to buy the things they 
 
 SmartInternz Dashboard Link: https://smartinternz.com/student-profile/feed/U0IyMDIyMDI0OTk3MQ==
 
-Project Folder Link: https://drive.google.com/drive/folders/1AQKQ_u8JLxdhTq70mGiPlPhI0-wn8yYV?usp=sharing
-
-Demo Video Link: https://drive.google.com/file/d/17OnFW6AGX-hZobOMUXmSgCLONe3DRoGi/view?usp=sharing
-
 Google Developer Profile Link: https://g.dev/ig_anubhav
